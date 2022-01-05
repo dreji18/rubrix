@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="docs/images/rubrix_logo.svg" alt="drawing" width="200" />
+    <img src="docs/images/rubrix_logo.svg" alt="drawing" width="800" />
 </p>
 <p> Build, refine and manage data for NLP.</p> 
 <p> Rubrix is an open-source Python framework to explore, label, and monitor data for NLP</p>
